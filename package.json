@@ -1,0 +1,1 @@
+{"name":"edgeiq-teams-connector","version":"1.0.0","description":"Microsoft Teams connector for EdgeIQ Labs security scanners","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{},"license":"MIT"}
